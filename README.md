@@ -42,14 +42,14 @@ With each level, the sequence becomes longer and more challenging.
 
 ## 📂 Project Structure
 
-`
+```
 Simon-Says-Game/
 │
 ├── index.html
 ├── style.css
 ├── app.js
 └── README.md
-`
+```
 
 
 ---
