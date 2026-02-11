@@ -18,9 +18,7 @@ With each level, the sequence becomes longer and more challenging.
 - 📈 Level progression system
 - ❌ Game over detection
 - 🔁 Restart functionality
-- 💡 Interactive button animations
-- 🔊 Sound effects (if implemented)
-
+  
 ---
 
 ## 🛠️ Technologies Used
@@ -89,7 +87,3 @@ Built as a mini web development project using HTML, CSS, and JavaScript.
 ---
 
 ⭐ If you like this project, feel free to star the repository!
-
-
-## 📂 Project Structure
-
