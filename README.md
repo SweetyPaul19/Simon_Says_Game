@@ -81,8 +81,8 @@ The goal of the game is to improve memory and concentration by correctly repeati
 
 ## 👩‍💻 Author
 
-Made with love by Sweety❤️ 
-Built as a mini web development project using HTML, CSS, and JavaScript.
+Made with love by Sweety❤️
+- Built as a mini web development project using HTML, CSS, and JavaScript.
 
 ---
 
